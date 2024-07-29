@@ -1,10 +1,3 @@
-# !pip install gradio
-# %pip install --quiet --upgrade diffusers transformers accelerate mediapy peft
-# !pip install gtts moviepy
-
-
-
-
 import re
 import numpy as np
 import random
